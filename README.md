@@ -10,7 +10,7 @@
 https://github.com/oreilly-japan/deep-learning-from-scratch）  
 笔记总结位于\fishbook_notebook目录下
 
-### 2.pytorch教程笔记
+### 3.pytorch教程笔记
 （参考网课：https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.788.player.switch&vd_source=40bd868399e33e94acdafd575ed0a5e1&p=7）  
 
 笔记总结位于\pytorch_xiaotudui"目录下
