@@ -4,14 +4,15 @@
 （我的bilibili链接：https://space.bilibili.com/663636817  
 上面会有我上传的一些总结视频  
 
-### 1.卷积神经网络
+### 1.卷积神经网络 （finished）
 （参考网课：https://www.bilibili.com/video/BV1e34y1M7wR/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=40bd868399e33e94acdafd575ed0a5e1）  
 
 笔记总结：https://www.yuque.com/happyhappyniuniu/hzxm2p/oi9kb891c7lvttny?singleDoc# 《卷积神经网络（LeNet，AlexNet，VGG,GoogLeNet，ResNet）网络总结》
 
-### 2.《深度学习入门：基于Python的理论与实践》笔记
+### 2.《深度学习入门：基于Python的理论与实践》笔记 （finished）
 （参考书链接：https://www.ituring.com.cn/book/1921  
-https://github.com/oreilly-japan/deep-learning-from-scratch）
+https://github.com/oreilly-japan/deep-learning-from-scratch  
+这本书的内容都是很基础的东西，我就是大致过了一遍并没有留下什么有用的笔记，如果完全没有基础建议细细去读，不想看书的话可以直接去看李宏毅老师的视频（在\fishbook_notebook笔记的readme文件中有链接），或者去看炮哥的视频（就是1.卷积神经网络中给的视频链接）  
 
 笔记总结位于\fishbook_notebook目录下  
 链接直达：https://github.com/niuruiyu/DeeplearingNotebook/tree/main/fishbook_notebook
