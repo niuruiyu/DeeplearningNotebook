@@ -4,4 +4,5 @@
 
 具体链接：https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.788.videopod.episodes&vd_source=40bd868399e33e94acdafd575ed0a5e1&p=19  
 
-只看这一部分就可以，李宏毅老师理论课程后面具体讲的更加深深奥的神经网络可以不看
+只看这一部分就可以，李宏毅老师理论课程后面具体讲的更加深奥的神经网络可以不看  
+李宏毅老师的网课我记的是纸质手写笔记，后续可能会把手写笔记的pdf放上来
