@@ -3,6 +3,7 @@
 #### 目前进度：在尝试看《动手学深度学习》的书，不会的地方搭配视频网课食用
 （我的bilibili链接：https://space.bilibili.com/663636817  
 上面会有我上传的一些总结视频  
+/projects目录下是一些实战项目的文件（没有上传训练后的model）  
 
 ### 1.卷积神经网络 （finished）
 （参考网课：https://www.bilibili.com/video/BV1e34y1M7wR/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=40bd868399e33e94acdafd575ed0a5e1）  
