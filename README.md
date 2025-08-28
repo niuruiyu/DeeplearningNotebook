@@ -28,3 +28,6 @@ https://github.com/oreilly-japan/deep-learning-from-scratch
 （参考书链接：http://tangshusen.me/Dive-into-DL-PyTorch/#/  
 （视频网课链接：https://www.bilibili.com/video/BV1if4y147hS/?spm_id_from=333.1387.favlist.content.click&vd_source=40bd868399e33e94acdafd575ed0a5e1  
 
+笔记总结位于\DiveintoDL_pytorch目录下  
+连接直达https://github.com/niuruiyu/DeeplearingNotebook/tree/main/DiveintoDL_pytorch
+
