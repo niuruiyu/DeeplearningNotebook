@@ -42,11 +42,21 @@ def show_fashion_mnist(images, labels):
         f.axes.get_yaxis().set_visible(False)
     plt.show()
 def evaluate_accuracy(data_iter,net):
-    acc_sum ,n = 0.0,0
+    acc_sum,n=0.0,0
     for X,y in data_iter:
-        acc_sum += (net(X).argmax(dim=1)==y).float().sum()
-        n += y.shape[0]#获取当前批次的样本数
+        if isinstance(net,torch.nn.Module):#判断net是否是nn.module的派生类
+            net.eval()#评估模式，关闭dropout
+            acc_sum+=(net(X).argmax(dim=1)==y).float().sum().item()
+            net.train()#改回训练模式
+        else:#如果是自定义的模型
+            if('is_training' in net.__code__.co_varnames):#如果有is_training这个参数
+                #将这个参数设为F
+                acc_sum+=(net(X,is_training=False).argmax(dim=1)==y).float().sum().item()
+            else:
+                acc_sum+=(net(X).argmax(dim=1)==y).float().sum().item()
+        n+=y.shape[0]
     return acc_sum/n
+              
 
 class FlattenLayer(nn.Module):
     def __init__(self):
